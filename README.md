@@ -16,6 +16,30 @@ LPTOken - 0x0498B7c793D7432Cd9dB27fb02fc9cfdBAfA1Fd3
 
 Arbitrage - 0xE5f2A565Ee0Aa9836B4c80a07C8b32aAd7978e22
 
+Transaction Proofs
+
+Liquidity Added
+	Tx Hash: 0x84a8bd4faf1945f2068273b7c49dc1f9d30ee4d471d418af29d904190ece34bb
+
+Liquidity Removed
+	Tx Hash: 0x93f71a3b785e5fd6f800b90c63eacabf80d14f868a427b958a961758a8bba2bc
+
+Swap A → B
+	Tx Hash: 0xa0d1c3b5ec92dd3b47039f1ba4a1a831cb93a3daae15cea88795ab305bbdcc42
+
+Swap B → A
+	Tx Hash: 0xe26a6f32407e54bf7fbb63a04774f59f56bc09e982d37dace0abdb497d89f5f3
+
+Profitable Arbitrage
+	Tx Hash: 0x7207e0f68edb8176983aa623b53ea9237b72240106ebe8a295d5cf5d77645847
+			0x06d86b2afdceaee7f532dbcdbf2885923adaf8d1f2060569775ba3420c50f63b
+
+Failed Arbitrage
+	Tx Hash: 0x06d86b2afdceaee7f532dbcdbf2885923adaf8d1f2060569775ba3420c50f63b
+
+
+-----------
+
 call
 getReserves
 0:
