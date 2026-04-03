@@ -115,7 +115,7 @@ contract DEX {
         return (reserveA * 1e18) / reserveB;
     }
 
-    //  Get Reserves
+    // Get Reserves
     function getReserves() public view returns (uint, uint) {
         return (reserveA, reserveB);
     }
