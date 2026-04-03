@@ -11,8 +11,9 @@ contract LPToken {
     address public dex;
 
     mapping(address => uint) public balanceOf;
-
-    constructor(address _dex) {
+    
+    function setDEX(address _dex) external {
+        require(dex == address(0), "DEX already set");
         dex = _dex;
     }
 
